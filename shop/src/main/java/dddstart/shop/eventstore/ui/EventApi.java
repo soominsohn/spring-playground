@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @AllArgsConstructor
 public class EventApi {
+
     private final EventStore eventStore;
 
     @GetMapping("/api/events")
