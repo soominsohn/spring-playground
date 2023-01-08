@@ -11,4 +11,10 @@
       </profile>
     </annotationProcessing>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consumer.main" options="--add-modules java.base" />
+      <module name="producer.main" options="--add-modules java.base" />
+    </option>
+  </component>
 </project>
