@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db515d57-81c1-4a05-961f-6bd1df0ea236" name="Changes" comment="feat: order 취소 이벤트 처리 기능 구현">
-      <change beforePath="$PROJECT_DIR$/shop2" beforeDir="false" />
+    <list default="true" id="da1437ce-3398-472e-8e74-7180a2b0f2e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
